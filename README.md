@@ -1,1 +1,1 @@
-# Student-Database-Application
+Educational institution accounting software.
